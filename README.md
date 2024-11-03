@@ -9,7 +9,7 @@
 
      **3.** Categorizing [Top 10 & Bottom 10 Products](https://github.com/sumanth-20021221/Excel-Sales-Analytics/blob/main/Top%2010%20%26%20Bottom%2010%20Products.pdf)
 
-     **4** Defining [New Prodcts](https://github.com/sumanth-20021221/Excel-Sales-Analytics/blob/main/New%20Products.pdf) between 2 different years
+     **4** Defining [New Prodcts](https://github.com/sumanth-20021221/Excel-Sales-Analytics/blob/main/New%20Products.pdf) in Successive Years
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
