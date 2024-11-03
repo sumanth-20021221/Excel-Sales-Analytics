@@ -7,7 +7,7 @@
 
     **2.** Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/sumanth-20021221/Excel-Sales-Analytics/blob/main/Market_performance_Sales_Analytics.pdf)
 
-     **3.** Catogerising [Top 10 Products](https://github.com/sumanth-20021221/Excel-Sales-Analytics/blob/main/Market_performance_Sales_Analytics.pdf)
+     **3.** Catogerising [Top 10 & Bottom 10 Products](https://github.com/sumanth-20021221/Excel-Sales-Analytics/blob/main/Top%2010%20%26%20Bottom%2010%20Products.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
