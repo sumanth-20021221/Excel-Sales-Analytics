@@ -7,28 +7,15 @@
 
     **2.** Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/sumanth-20021221/Excel-Sales-Analytics/blob/main/Market_performance_Sales_Analytics.pdf)
 
-     **3.** Catogerising [Top 10 & Bottom 10 Products](https://github.com/sumanth-20021221/Excel-Sales-Analytics/blob/main/Top%2010%20%26%20Bottom%2010%20Products.pdf)
+     **3.** Categorizing [Top 10 & Bottom 10 Products](https://github.com/sumanth-20021221/Excel-Sales-Analytics/blob/main/Top%2010%20%26%20Bottom%2010%20Products.pdf)
+
+     **4** Defining [New Prodcts](https://github.com/sumanth-20021221/Excel-Sales-Analytics/blob/main/New%20Products.pdf) between 2 different years
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
-
-
-## Finance Report :
-
-- **Project objective:** 
-
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
-
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
-
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
 ## Technical & Soft Skills:
